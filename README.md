@@ -49,7 +49,7 @@ So far, I'm not really sure if there are any bugs. However, there might be some 
 
 ## 🚀 Let's Get Started
 
-Step away from the ordinary and embrace the extraordinary. [Download Golden_Calculator](https://github.com/malik-l0l/Order_App/raw/main/executable%20file/order_app.exe)! and make your calculations shine brighter than ever before!
+Step away from the ordinary and embrace the extraordinary. [Download Golden_Calculator](https://github.com/malik-l0l/Golden_Calculator/raw/main/executable%20file/golden_calculator.exe)! and make your calculations shine brighter than ever before!
 
 
 ## 🍿 Preview
